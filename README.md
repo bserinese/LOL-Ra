@@ -1,4 +1,4 @@
-# LOL-Ra
+# LOL-Ra LED Lamp Project
 An LED lamp that displays emojis on a 16x16 LED matrix and sends the image to a partner lamp using the Adafruit LoRa Feather
 Welcome to the LOL-Ra Lamp Project by Bryan Serinese
 This project uses the Adafruit LoRa Feather to display an image on a 16x16 RGB matrix.  
